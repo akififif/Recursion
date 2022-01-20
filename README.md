@@ -1,2 +1,2 @@
 # Recursion
-Exersizes with recursion 
+Exercizes with recursion 
